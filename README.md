@@ -9,7 +9,7 @@ Eventually I figured I use github the most of any public repo, and like the inte
 - 👀 My interests are in Virtualization (KVM (Nutanix, Proxmox, UnRAID, VMM), Hyper-V) VDI, disk imaging, SDS, SDN, hybrid cloud solutions, Microsoft 365 suite, Open Source Software, project management and big data.  Prefers to make their config edits using a text editor.    
 
 - 🌱 I’m currently expanding my knowledge on content creation, web design, website management and SEO to build a place where I can put all the 15+ years experience in IT in both an entertaining yet educational format. 
-- 
+
 - 💞️ I’m looking to collaborate with others on high quality technical content.  I am by no means someone who knows and can do everything, as much as I want to, and it takes collaboration with others to get some things done right.  All creators whos content is used will be referenced and cross linked in all posts.  
 - 📫 How to reach me drop me a line @...
 
